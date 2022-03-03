@@ -1,6 +1,5 @@
 # Fern drawing
-####  I tried CSS again and took a youtube tutorials, then I made fern (a cartoon character) using pure CSS. The link to veiw it is down below.
-## Link to open the website
+#### This is the first of my drawings with CSS. Its a website with a drawing of one of the most popular cartoon characters Fern.
 #### The website is hosted for free using github pages [here](https://georgenasseem.github.io/fern-drawing/).
 
 
